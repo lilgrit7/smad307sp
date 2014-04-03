@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* style */
+
+
+body {
+	margin: 0 auto;
+}
+#header {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: rgba(227,225,225,1.00);
+	}
+#container1 {
+	background-image:url(images/bg.jpg);
+	background-size:100% 100%;
+	}
+#container {
+  margin: 0 auto ;
+	}
+#menu1 {
+	background-color:rgba(0,0,0,0.00);
+	}
+#menu {
+	opacity:0.85;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	
+	}
+#content1 {
+	background-color:rgba(0,255,0,0.00);
+	}
+#content {
+	opacity:0.7;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: rgba(0,0,0,1.00);
+	font-size:14px;
+	}
+#footer {
+	opacity:0.7;
+	color:rgba(0,0,0,1.00);
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	}
+a:link {
+	color: white;
+	text-decoration:none;
+	}
+a:visited {
+	color:white;
+	text-decoration:none;
+	}
+a:hover {
+	color: #FFCB73;
+	text-decoration:none;
+	}
+a:active {
+	color:white;
+	text-decoration:none;
+	}
